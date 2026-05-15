@@ -10,13 +10,13 @@
 
 ##  Hey, I'm Varney
 
-Web and Mobile Developer from Liberia. I've been building things with code for a while now, websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
+Web and Mobile Applications Developer from Liberia. I've been building things with code for a while now, websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
 
 Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building, because the best way to really understand something is to explain it to someone else.
 
 -  Liberia-based, working with clients and teams **remotely worldwide**
 -  Currently building an AI chat platform with real-time messaging
--  Happy to talk **React, Node, Python, Flutter, C++, or Linux**
+-  Happy to talk **React, Node, Java, Python, Flutter, C++, or Linux**
 -  **varfahnbulleh@gmail.com**
 
 ---
