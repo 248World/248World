@@ -85,22 +85,23 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 [Your Web App]</h3>
-      <p>What does someone actually do with this? One sentence, plain English.</p>
+      <h3>🖼️ Image Processing with OpenCV</h3>
+      <p>A collection of C++ applications built with OpenCV — edge detection, filtering, transformations, and more. Low-level stuff that actually taught me how images work at the pixel level.</p>
       <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
-      <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
+      <a href="https://github.com/248World/Applications-on-Image-Processing-in-Open-CV-with-C-">View repo →</a>
     </td>
     <td width="50%">
-      <h3>⚙️ [Your 4th Project]</h3>
-      <p>Could be a CLI tool, a script, an API — something that shows a different side of what you can do.</p>
+      <h3>🎓 Wise School</h3>
+      <p>A cross-platform school management app built with Flutter and Firebase — runs on Android, iOS, web, and desktop from a single codebase.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
+      <a href="https://github.com/248World/wise_school">View repo →</a>
     </td>
   </tr>
 </table>
