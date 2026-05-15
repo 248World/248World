@@ -74,13 +74,14 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
     </td>
     <td width="50%">
-      <h3>📱 [Your Mobile App]</h3>
-      <p>What problem does it solve? Write one sentence like you're telling a friend, not pitching an investor.</p>
+      <h3>🔐 Encryption & Decryption Tool</h3>
+      <p>Type in any text, get back scrambled ciphertext — and a key to unscramble it. Built to understand how encryption actually works under the hood, not just use a library.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
+      <a href="https://github.com/248World/Encryption_Decryption">View repo →</a>
     </td>
   </tr>
   <tr>
