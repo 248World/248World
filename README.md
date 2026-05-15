@@ -10,20 +10,20 @@
 
 ---
 
-## 👋 Hey, I'm Varney
+##  Hey, I'm Varney
 
 Web and mobile dev from Liberia. I've been building things with code for a while now — websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
 
 Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building — because the best way to really understand something is to explain it to someone else.
 
-- 🌍 Liberia-based, working with clients and teams **remotely worldwide**
-- 🔨 Currently building an AI chat platform with real-time messaging
-- 💬 Happy to talk **React, Node, Python, Flutter, C++, or Linux**
-- 📫 **varfahnbulleh@gmail.com**
+-  Liberia-based, working with clients and teams **remotely worldwide**
+-  Currently building an AI chat platform with real-time messaging
+-  Happy to talk **React, Node, Python, Flutter, C++, or Linux**
+-  **varfahnbulleh@gmail.com**
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Frontend**
 
@@ -64,7 +64,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Chat Platform</h3>
+      <h3> AI Chat Platform</h3>
       <p>Real-time chat with AI responses baked in. Built it because I wanted to understand how WebSockets and language model APIs actually fit together under the hood.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -127,7 +127,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=248world&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Varney's GitHub stats" />
