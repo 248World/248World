@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:378ADD&height=200&section=header&text=Varney%20D.%20Fahnbulleh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer%20%7C%20Open%20to%20Remote%20%26%20Freelance&descAlignY=57&descAlign=50)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=248world&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views" />
