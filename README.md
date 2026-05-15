@@ -104,6 +104,20 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248World/wise_school">View repo →</a>
     </td>
   </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>My own corner of the web — built from scratch with vanilla HTML, CSS, and JavaScript. Has a live CV, a weather app, a note-taking app, a scoreboard, and a todo list all baked in. 185 commits deep.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/248World/Portfolio">View repo →</a>
+      &nbsp;&nbsp;
+      <a href="https://248world.github.io/Portfolio/">Live site →</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -198,6 +212,7 @@ Find the project card above and replace the `View repo →` line with:
 I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, just reach out — I reply fast.
 
 <p>
+  <a href="https://248world.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-0F6E56?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:varfahnbulleh@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/varneydfahnbulleh"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
