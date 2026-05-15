@@ -10,20 +10,20 @@
 
 ---
 
-## 👋 About me
+## Hey, I'm Varney
 
-I'm a web and mobile app developer from Liberia who cares about the full picture — the code, the UX, and whether the thing actually works in the real world. I build products with clean architecture and interfaces people enjoy using.
+Web and mobile dev from Liberia. I've been building things with code for a while now — websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
 
-I'm currently deepening my backend skills with **Spring Boot** and **Java**, while staying sharp on the frontend with **React**. When I'm not building something, I'm usually on YouTube sharing what I know.
+Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building — because the best way to really understand something is to explain it to someone else.
 
-- 🌍 Based in Liberia — available for **remote work** and **freelance projects** worldwide
-- 💬 Ask me about **React, Node.js, Python, C++, or Linux**
-- 📫 Reach me at **varfahnbulleh@gmail.com**
-- 🎯 Currently building: **an AI-powered real-time chat platform**
+-  Liberia-based, working with clients and teams **remotely worldwide**
+- Currently building an AI chat platform with real-time messaging
+-   Happy to talk **React, Node, java, Python, Flutter, C++, or Linux**
+-  **varfahnbulleh@gmail.com**
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Frontend**
 
@@ -40,6 +40,8 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Databases & Tools**
@@ -53,15 +55,15 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
 
 ---
 
-## 🚀 Featured projects
+##  Things I've built
 
-<!-- Replace these with your actual repos. For each: update the repo name, write a real 1-line description, and add a live demo link if you have one. -->
+<!-- Swap in your actual repos. For each project: real name, one honest sentence about what it does, and link to the repo. -->
 
 <table>
   <tr>
     <td width="50%">
       <h3>🤖 AI Chat Platform</h3>
-      <p>A real-time AI-powered chat system with contextual memory and a responsive UI built for everyday users. WebSocket-based, fast, and clean.</p>
+      <p>Real-time chat with AI responses baked in. Built it because I wanted to understand how WebSockets and language model APIs actually fit together under the hood.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -71,10 +73,10 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
     </td>
     <td width="50%">
       <h3>📱 [Your Mobile App]</h3>
-      <p>Describe what it does and who it's for in one or two sentences. Lead with the problem it solves, not the tech stack.</p>
+      <p>What problem does it solve? Write one sentence like you're telling a friend, not pitching an investor.</p>
       <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
       <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
     </td>
@@ -82,7 +84,7 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
   <tr>
     <td width="50%">
       <h3>🌐 [Your Web App]</h3>
-      <p>What does a user gain from this? Describe the outcome, not the implementation.</p>
+      <p>What does someone actually do with this? One sentence, plain English.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -91,7 +93,7 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
     </td>
     <td width="50%">
       <h3>⚙️ [Your 4th Project]</h3>
-      <p>Another project that shows range — a CLI tool, a script, an API, something that proves depth.</p>
+      <p>Could be a CLI tool, a script, an API — something that shows a different side of what you can do.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -100,6 +102,60 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
     </td>
   </tr>
 </table>
+
+---
+
+## 📸 Adding screenshots to your projects
+
+> Once you've added real screenshots to a project repo, delete this whole section and drop one hero image from your best-looking app here instead. A real screenshot beats any badge.
+
+**Taking the shot**
+
+- Flutter — `flutter screenshot` in the terminal while the app is running, or the emulator's screenshot button
+- React Native — `Ctrl+S` on Android emulator, `Cmd+S` on iOS simulator. On a real device: `adb shell screencap -p /sdcard/screen.png && adb pull /sdcard/screen.png`
+- Android (Java) — emulator camera icon in the toolbar, or `adb shell screencap`
+- Web — [screely.com](https://screely.com) wraps it in a browser frame and makes it look a lot more presentable
+
+**Storing them**
+
+Drop them in a `screenshots/` folder at the root of each project repo and commit to `main`:
+
+```
+your-project/
+├── screenshots/
+│   ├── home.png
+│   ├── dashboard.png
+│   └── profile.png
+└── README.md
+```
+
+**Embedding in a project README**
+
+Mobile (side by side):
+```markdown
+<p align="center">
+  <img src="screenshots/home.png" width="30%" />
+  &nbsp;&nbsp;
+  <img src="screenshots/dashboard.png" width="30%" />
+  &nbsp;&nbsp;
+  <img src="screenshots/profile.png" width="30%" />
+</p>
+```
+
+Web (full width):
+```markdown
+![Home](screenshots/home.png)
+![Dashboard](screenshots/dashboard.png)
+```
+
+**Pulling a screenshot into this profile README**
+
+Find the project card above and replace the `View repo →` line with:
+```markdown
+<img src="https://raw.githubusercontent.com/248world/YOUR-REPO-NAME/main/screenshots/home.png" width="100%" alt="screenshot" />
+<br/>
+<a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
+```
 
 ---
 
@@ -127,7 +183,6 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
 
 ## ⏱️ Weekly coding activity
 
-<!-- After setting up WakaTime + the GitHub Action, delete this section and replace with the waka tags below -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -135,9 +190,9 @@ I'm currently deepening my backend skills with **Spring Boot** and **Java**, whi
 
 ---
 
-## 🤝 Let's work together
+## 📬 Want to work together?
 
-I'm open to remote roles, freelance contracts, and interesting collaborations. If you're building something and need a developer who ships clean, working software — let's talk.
+I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, just reach out — I reply fast.
 
 <p>
   <a href="mailto:varfahnbulleh@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
