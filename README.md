@@ -139,7 +139,7 @@ I'm available for freelance projects and open to remote roles. If you've got som
 <p>
   <a href="https://248world.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-0F6E56?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:varfahnbulleh@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/varneydfahnbulleh"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://www.linkedin.com/in/varney-d-fahnbulleh-784449281/><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
