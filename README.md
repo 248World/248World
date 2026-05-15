@@ -57,7 +57,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 ---
 
-## 🚀 Things I've built
+## Things I've built
 
 <!-- Swap in your actual repos. For each project: real name, one honest sentence about what it does, and link to the repo. -->
 
@@ -74,7 +74,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
     </td>
     <td width="50%">
-      <h3>🔐 Encryption & Decryption Tool</h3>
+      <h3> Encryption & Decryption Tool</h3>
       <p>Type in any text, get back scrambled ciphertext — and a key to unscramble it. Built to understand how encryption actually works under the hood, not just use a library.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,7 +86,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
   </tr>
   <tr>
     <td width="50%">
-      <h3>🖼️ Image Processing with OpenCV</h3>
+      <h3> Image Processing with OpenCV</h3>
       <p>A collection of C++ applications built with OpenCV — edge detection, filtering, transformations, and more. Low-level stuff that actually taught me how images work at the pixel level.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -95,7 +95,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248World/Applications-on-Image-Processing-in-Open-CV-with-C-">View repo →</a>
     </td>
     <td width="50%">
-      <h3>🎓 Wise School</h3>
+      <h3> Wise School</h3>
       <p>A cross-platform school management app built with Flutter and Firebase — runs on Android, iOS, web, and desktop from a single codebase.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -107,7 +107,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
   </tr>
   <tr>
     <td width="100%" colspan="2">
-      <h3>🌐 Personal Portfolio</h3>
+      <h3> Personal Portfolio</h3>
       <p>My own corner of the web — built from scratch with vanilla HTML, CSS, and JavaScript. Has a live CV, a weather app, a note-taking app, a scoreboard, and a todo list all baked in. 185 commits deep.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -123,59 +123,9 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 ---
 
-## 📸 Adding screenshots to your projects
 
-> Once you've added real screenshots to a project repo, delete this whole section and drop one hero image from your best-looking app here instead. A real screenshot beats any badge.
 
-**Taking the shot**
 
-- Flutter — `flutter screenshot` in the terminal while the app is running, or the emulator's screenshot button
-- React Native — `Ctrl+S` on Android emulator, `Cmd+S` on iOS simulator. On a real device: `adb shell screencap -p /sdcard/screen.png && adb pull /sdcard/screen.png`
-- Android (Java) — emulator camera icon in the toolbar, or `adb shell screencap`
-- Web — [screely.com](https://screely.com) wraps it in a browser frame and makes it look a lot more presentable
-
-**Storing them**
-
-Drop them in a `screenshots/` folder at the root of each project repo and commit to `main`:
-
-```
-your-project/
-├── screenshots/
-│   ├── home.png
-│   ├── dashboard.png
-│   └── profile.png
-└── README.md
-```
-
-**Embedding in a project README**
-
-Mobile (side by side):
-```markdown
-<p align="center">
-  <img src="screenshots/home.png" width="30%" />
-  &nbsp;&nbsp;
-  <img src="screenshots/dashboard.png" width="30%" />
-  &nbsp;&nbsp;
-  <img src="screenshots/profile.png" width="30%" />
-</p>
-```
-
-Web (full width):
-```markdown
-![Home](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-```
-
-**Pulling a screenshot into this profile README**
-
-Find the project card above and replace the `View repo →` line with:
-```markdown
-<img src="https://raw.githubusercontent.com/248world/YOUR-REPO-NAME/main/screenshots/home.png" width="100%" alt="screenshot" />
-<br/>
-<a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
-```
-
----
 
 ## 📊 GitHub stats
 
@@ -188,29 +138,9 @@ Find the project card above and replace the `View repo →` line with:
   <img src="https://streak-stats.demolab.com?user=248world&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+## Want to work together?
 
-## 🐍 Contribution graph
-
-<!-- Run the GitHub Action in .github/workflows/snake.yml first, then uncomment this -->
-<!-- ![snake animation](https://raw.githubusercontent.com/248world/248world/output/github-snake.svg) -->
-
-> ⚠️ **To enable the snake:** create `.github/workflows/snake.yml` using the code from the setup guide, run it once manually, then uncomment the line above and delete this note.
-
----
-
-## ⏱️ Weekly coding activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> ⚠️ **To enable WakaTime stats:** sign up at [wakatime.com](https://wakatime.com), install the IDE plugin, add your API key as a GitHub secret named `WAKATIME_API_KEY`, and set up the waka-readme-stats Action.
-
----
-
-## 📬 Want to work together?
-
-I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, just reach out — I reply fast.
+I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, just reach out, I reply fast.
 
 <p>
   <a href="https://248world.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-0F6E56?style=for-the-badge&logoColor=white" /></a>
