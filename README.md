@@ -10,20 +10,20 @@
 
 ---
 
-## Hey, I'm Varney
+## 👋 Hey, I'm Varney
 
 Web and mobile dev from Liberia. I've been building things with code for a while now — websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
 
 Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building — because the best way to really understand something is to explain it to someone else.
 
--  Liberia-based, working with clients and teams **remotely worldwide**
-- Currently building an AI chat platform with real-time messaging
--   Happy to talk **React, Node, java, Python, Flutter, C++, or Linux**
--  **varfahnbulleh@gmail.com**
+- 🌍 Liberia-based, working with clients and teams **remotely worldwide**
+- 🔨 Currently building an AI chat platform with real-time messaging
+- 💬 Happy to talk **React, Node, Python, Flutter, C++, or Linux**
+- 📫 **varfahnbulleh@gmail.com**
 
 ---
 
-##  Tech stack
+## 🛠️ Tech stack
 
 **Frontend**
 
@@ -52,10 +52,12 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
 
 ---
 
-##  Things I've built
+## 🚀 Things I've built
 
 <!-- Swap in your actual repos. For each project: real name, one honest sentence about what it does, and link to the repo. -->
 
