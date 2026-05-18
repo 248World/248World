@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=248world&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views" />
-  <a href=https://www.linkedin.com/in/varney-d-fahnbulleh-784449281/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/varney-d-fahnbulleh-784449281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:varfahnbulleh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.youtube.com/c/248world"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
   <a href="https://fb.com/varneydfahnbulleh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
@@ -8,20 +8,20 @@
 
 ---
 
-##  Hey, I'm Varney
+## Hey, I'm Varney
 
 Web and Mobile Applications Developer from Liberia. I've been building things with code for a while now, websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
 
 Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building, because the best way to really understand something is to explain it to someone else.
 
--  Liberia-based, working with clients and teams **remotely worldwide**
--  Currently building an AI chat platform with real-time messaging
--  Happy to talk **React, Node, Java, Python, Flutter, C++, or Linux**
--  **varfahnbulleh@gmail.com**
+- Liberia-based, working with clients and teams **remotely worldwide**
+- Currently building an AI chat platform with real-time messaging
+- Happy to talk **React, Node, Java, Python, Flutter, C++, or Linux**
+- **varfahnbulleh@gmail.com**
 
 ---
 
-##  Tech stack
+## Tech stack
 
 **Frontend**
 
@@ -57,12 +57,10 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 ## Things I've built
 
-<!-- Swap in your actual repos. For each project: real name, one honest sentence about what it does, and link to the repo. -->
-
 <table>
   <tr>
     <td width="50%">
-      <h3> AI Chat Platform</h3>
+      <h3>AI Chat Platform</h3>
       <p>Real-time chat with AI responses baked in. Built it because I wanted to understand how WebSockets and language model APIs actually fit together under the hood.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -72,7 +70,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
     </td>
     <td width="50%">
-      <h3> Encryption & Decryption Tool</h3>
+      <h3>Encryption & Decryption Tool</h3>
       <p>Type in any text, get back scrambled ciphertext — and a key to unscramble it. Built to understand how encryption actually works under the hood, not just use a library.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -82,9 +80,10 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248World/Encryption_Decryption">View repo →</a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3> Image Processing with OpenCV</h3>
+      <h3>Image Processing with OpenCV</h3>
       <p>A collection of C++ applications built with OpenCV — edge detection, filtering, transformations, and more. Low-level stuff that actually taught me how images work at the pixel level.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -93,7 +92,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248World/Applications-on-Image-Processing-in-Open-CV-with-C-">View repo →</a>
     </td>
     <td width="50%">
-      <h3> Wise School</h3>
+      <h3>Wise School</h3>
       <p>A cross-platform school management app built with Flutter and Firebase — runs on Android, iOS, web, and desktop from a single codebase.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -103,9 +102,62 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
       <a href="https://github.com/248World/wise_school">View repo →</a>
     </td>
   </tr>
+
   <tr>
     <td width="100%" colspan="2">
-      <h3> Personal Portfolio</h3>
+      <h3>SoundWave Music Platform</h3>
+      <p>A full-stack music streaming platform with listener, artist, and admin dashboards. Users can play music, like tracks, download songs, create playlists, follow artists, and artists can upload and manage their tracks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/248World/soundwave-music-platform">View repo →</a>
+      </p>
+      <details>
+        <summary><strong>Preview screenshots</strong></summary>
+        <br />
+        <p><strong>Home Page</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/home.png" alt="SoundWave Home Page" width="100%" />
+        <br /><br />
+        <p><strong>Login Page</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/login.png" alt="SoundWave Login Page" width="100%" />
+        <br /><br />
+        <p><strong>Register Page</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/register.png" alt="SoundWave Register Page" width="100%" />
+        <br /><br />
+        <p><strong>Dashboard</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/dashboard.png" alt="SoundWave Dashboard" width="100%" />
+        <br /><br />
+        <p><strong>Artist Dashboard</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/artist-dashboard.png" alt="SoundWave Artist Dashboard" width="100%" />
+        <br /><br />
+        <p><strong>Admin Dashboard</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/admin-dashboard.png" alt="SoundWave Admin Dashboard" width="100%" />
+        <br /><br />
+        <p><strong>Upload Track</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/upload.png" alt="SoundWave Upload Track" width="100%" />
+        <br /><br />
+        <p><strong>Artist Profile</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/artist-profile.png" alt="SoundWave Artist Profile" width="100%" />
+        <br /><br />
+        <p><strong>Playlists</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/playlists.png" alt="SoundWave Playlists" width="100%" />
+        <br /><br />
+        <p><strong>Artists</strong></p>
+        <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/artists.png" alt="SoundWave Artists" width="100%" />
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>Personal Portfolio</h3>
       <p>My own corner of the web — built from scratch with vanilla HTML, CSS, and JavaScript. Has a live CV, a weather app, a note-taking app, a scoreboard, and a todo list all baked in. 185 commits deep.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -121,7 +173,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 ---
 
-##  GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=248world&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Varney's GitHub stats" />
@@ -139,7 +191,7 @@ I'm available for freelance projects and open to remote roles. If you've got som
 <p>
   <a href="https://248world.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-0F6E56?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:varfahnbulleh@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href=https://www.linkedin.com/in/varney-d-fahnbulleh-784449281/><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/varney-d-fahnbulleh-784449281/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
