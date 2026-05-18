@@ -10,18 +10,20 @@
 
 ## Hey, I'm Varney
 
-Web and Mobile Applications Developer from Liberia. I've been building things with code for a while now, websites, Android apps, cross-platform mobile apps with Flutter and React Native, backend APIs. The whole stack, pretty much.
+Web and Mobile Applications Developer from Liberia with experience building websites, Android apps, cross-platform mobile apps, backend APIs, and full-stack platforms.
 
-Right now I'm deep into **Spring Boot** on the backend while keeping my **React** sharp on the front. I also run a YouTube channel (248World) where I share what I'm learning and building, because the best way to really understand something is to explain it to someone else.
+Right now, I’m deepening my backend skills with **Spring Boot** while continuing to build modern frontend experiences with **React**. I also run a YouTube channel, **248World**, where I share what I’m learning and building.
 
 - Liberia-based, working with clients and teams **remotely worldwide**
-- Currently building an AI chat platform with real-time messaging
+- Currently building full-stack platforms, mobile apps, and AI-powered tools
 - Happy to talk **React, Node, Java, Python, Flutter, C++, or Linux**
 - **varfahnbulleh@gmail.com**
 
 ---
 
 ## Tech stack
+
+Tools and technologies I use to build full-stack web and mobile applications:
 
 **Frontend**
 
@@ -59,51 +61,6 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>AI Chat Platform</h3>
-      <p>Real-time chat with AI responses baked in. Built it because I wanted to understand how WebSockets and language model APIs actually fit together under the hood.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square" />
-      </p>
-      <a href="https://github.com/248world/YOUR-REPO-NAME">View repo →</a>
-    </td>
-    <td width="50%">
-      <h3>Encryption & Decryption Tool</h3>
-      <p>Type in any text, get back scrambled ciphertext — and a key to unscramble it. Built to understand how encryption actually works under the hood, not just use a library.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/248World/Encryption_Decryption">View repo →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>Image Processing with OpenCV</h3>
-      <p>A collection of C++ applications built with OpenCV — edge detection, filtering, transformations, and more. Low-level stuff that actually taught me how images work at the pixel level.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      </p>
-      <a href="https://github.com/248World/Applications-on-Image-Processing-in-Open-CV-with-C-">View repo →</a>
-    </td>
-    <td width="50%">
-      <h3>Wise School</h3>
-      <p>A cross-platform school management app built with Flutter and Firebase — runs on Android, iOS, web, and desktop from a single codebase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <a href="https://github.com/248World/wise_school">View repo →</a>
-    </td>
-  </tr>
-
-  <tr>
     <td width="100%" colspan="2">
       <h3>SoundWave Music Platform</h3>
       <p>A full-stack music streaming platform with listener, artist, and admin dashboards. Users can play music, like tracks, download songs, create playlists, follow artists, and artists can upload and manage their tracks.</p>
@@ -131,7 +88,7 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
         <p><strong>Register Page</strong></p>
         <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/register.png" alt="SoundWave Register Page" width="100%" />
         <br /><br />
-        <p><strong>Dashboard</strong></p>
+        <p><strong>Listener Dashboard</strong></p>
         <img src="https://raw.githubusercontent.com/248World/soundwave-music-platform/main/client/src/assets/screenshots/dashboard.png" alt="SoundWave Dashboard" width="100%" />
         <br /><br />
         <p><strong>Artist Dashboard</strong></p>
@@ -156,9 +113,65 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
   </tr>
 
   <tr>
-    <td width="100%" colspan="2">
+    <td width="50%">
+      <h3>Wise School</h3>
+      <p>A cross-platform school management app built with Flutter and Firebase. It includes role-based dashboards for admins, teachers, parents, and students.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <a href="https://github.com/248World/wise_school">View repo →</a>
+    </td>
+    <td width="50%">
+      <h3>iClinika Mobile App</h3>
+      <p>A Flutter mobile version of an online healthcare platform, built to connect with an existing PHP/MySQL web system through API routes and display real database-driven dashboard data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/248World/iclinika-parallel-mobile">View repo →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>Image Processing with OpenCV</h3>
+      <p>A collection of C++ applications built with OpenCV — edge detection, filtering, transformations, and more. Low-level work that helped me understand how images work at the pixel level.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+      <a href="https://github.com/248World/Applications-on-Image-Processing-in-Open-CV-with-C-">View repo →</a>
+    </td>
+    <td width="50%">
+      <h3>Encryption & Decryption Tool</h3>
+      <p>Type in any text, get back scrambled ciphertext, and use a key to restore the original message. Built to understand encryption logic beyond just using a library.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/248World/Encryption_Decryption">View repo →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>AI Chat Platform</h3>
+      <p>A real-time chat platform with AI responses. Currently in progress as I explore how WebSockets, backend APIs, and AI integrations work together in a production-style app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square" />
+      </p>
+      <a href="https://github.com/248World">Coming soon →</a>
+    </td>
+    <td width="50%">
       <h3>Personal Portfolio</h3>
-      <p>My own corner of the web — built from scratch with vanilla HTML, CSS, and JavaScript. Has a live CV, a weather app, a note-taking app, a scoreboard, and a todo list all baked in. 185 commits deep.</p>
+      <p>My own corner of the web — built from scratch with vanilla HTML, CSS, and JavaScript. Includes a live CV, weather app, note-taking app, scoreboard, and todo list.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -184,9 +197,11 @@ Right now I'm deep into **Spring Boot** on the backend while keeping my **React*
   <img src="https://streak-stats.demolab.com?user=248world&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
 ## Want to work together?
 
-I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, just reach out, I reply fast.
+I'm available for freelance projects and open to remote roles. If you've got something interesting you're building, reach out. I reply fast.
 
 <p>
   <a href="https://248world.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-0F6E56?style=for-the-badge&logoColor=white" /></a>
