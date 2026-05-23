@@ -10,7 +10,7 @@
 
 ## Hey, I'm Varney
 
-Web and Mobile Applications Developer from Liberia with experience building websites, Android apps, cross-platform mobile apps, backend APIs, and full-stack platforms.
+Web and Mobile Applications Engineer from Liberia with experience building websites, Android apps, cross-platform mobile apps, backend APIs, and full-stack platforms.
 
 Right now, I’m deepening my backend skills with **Spring Boot** while continuing to build modern frontend experiences with **React**. I also run a YouTube channel, **248World**, where I share what I’m learning and building.
 
